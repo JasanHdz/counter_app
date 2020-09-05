@@ -2,7 +2,9 @@
 
 Aplicación que maneja un StateFull Widget para manejar el estado de un contador, en esta Aplicación solo podemos sumar, restar e igualar a zero.
 
-![Captura de la App](./.statics/app_container.jpeg)
+<div align="center">
+  <img height="700" src=".statics/app_container.jpeg" alt="android application">
+</div>
 
 ## Getting Started
 
