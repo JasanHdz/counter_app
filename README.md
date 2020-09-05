@@ -10,8 +10,6 @@ Aplicación que maneja un StateFull Widget para manejar el estado de un contador
 
 Esté proyecto es un buen ejemplo para comenzar a familializarse en un aplicación a Flutter. Es necesario haber instalado [Flutter](https://flutter.dev/docs/get-started) posteriormente.
 
-## A
-
 ## Requirements
   - Android Studio
   - Java JDK 8
